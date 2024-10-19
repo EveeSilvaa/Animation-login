@@ -51,6 +51,13 @@ If you would like to contribute to the project:
 4. Push your changes to the main branch (`git push origin feature/MyFeature`).
 5. Create a Pull Request.
 
+## Result
+
+The final result of this project is a sleek and interactive login page with animations that enhance the user experience. Upon clicking on input fields, smooth transitions are triggered, giving the form a dynamic and professional feel. The page is fully responsive, ensuring an optimal experience across various devices, from desktops to mobile phones.
+
+![resultado](https://github.com/user-attachments/assets/8fbcb874-3705-433b-88f2-f8859763cc91)
+
+
 
 ---
 
